@@ -1,0 +1,12 @@
+using System;
+
+namespace TSQLtoCAharp
+{
+    class cDBConnet
+    {
+        public cDBConnet(){
+            Console.WriteLine("Hello World! From cDBConnect.");
+        }
+        
+    }
+}

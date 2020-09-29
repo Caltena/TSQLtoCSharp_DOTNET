@@ -1,0 +1,13 @@
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp.deps.json
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp.runtimeconfig.json
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp.runtimeconfig.dev.json
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp.dll
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/bin/Debug/netcoreapp3.1/TSQLtoCAharp.pdb
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.csprojAssemblyReference.cache
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.AssemblyInfoInputs.cache
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.AssemblyInfo.cs
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.csproj.CoreCompileInputs.cache
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.dll
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.pdb
+/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/obj/Debug/netcoreapp3.1/TSQLtoCAharp.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wKZ8Yeez9z2qaWTnIx1CbvEpw+jkam0pzfjCS0ZSR70t0u0vZaXhoCqjNUlWH/Yax+hj6X3yHTio1wHLiSIhZw==",
+  "dgSpecHash": "JNjzoe7EUYXvwmcia0m5xsLmNKPkr+AR15zuK9dkJCH1ZIVdlZz5Syga66SjQyHvJZCArigXOMIdrJMevDPGGw==",
   "success": true,
-  "projectFilePath": "/mnt/CABA8370BA8357B9/source/TSQLtoCAharp/TSQLtoCAharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\apps\\TSQLtoSharp\\TSQLtoCAharp\\TSQLtoCAharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claus.Altena\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

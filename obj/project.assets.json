@@ -52,31 +52,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Claus.Altena\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/claus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\apps\\TSQLtoSharp\\TSQLtoCAharp\\TSQLtoCAharp.csproj",
+      "projectUniqueName": "/mnt/CABA8370BA8357B9/source/dotnet/TSQLtoCSharp_DOTNET/TSQLtoCAharp.csproj",
       "projectName": "TSQLtoCAharp",
-      "projectPath": "C:\\apps\\TSQLtoSharp\\TSQLtoCAharp\\TSQLtoCAharp.csproj",
-      "packagesPath": "C:\\Users\\Claus.Altena\\.nuget\\packages\\",
-      "outputPath": "C:\\apps\\TSQLtoSharp\\TSQLtoCAharp\\obj\\",
+      "projectPath": "/mnt/CABA8370BA8357B9/source/dotnet/TSQLtoCSharp_DOTNET/TSQLtoCAharp.csproj",
+      "packagesPath": "/home/claus/.nuget/packages/",
+      "outputPath": "/mnt/CABA8370BA8357B9/source/dotnet/TSQLtoCSharp_DOTNET/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Claus.Altena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/claus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -113,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }

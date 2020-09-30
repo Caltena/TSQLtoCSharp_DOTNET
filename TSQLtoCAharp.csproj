@@ -4,13 +4,20 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+  
   <ItemGroup>
     <Content Include="cInterface.cs" />
     <Content Include="cNotification.cs" />
     <Content Include="cDBConnect.cs" />
     <Content Include="Program.cs" />
+    <Content Include="json.txt" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="json.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

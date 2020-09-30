@@ -1,4 +1,4 @@
 {
     "Title": "Json.NET is awesome!",
-    "cClass": "jkkkkkkkkkkjjjjj"
+    "cClass": "Das ist ein test"
 }

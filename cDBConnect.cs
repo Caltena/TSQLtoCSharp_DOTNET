@@ -12,7 +12,7 @@ namespace TSQLtoCAharp
     public class InitPost
     {
         public string Title { get; set; }
-        public string aClass { get; set; }
+        public string GetSetClass { get; set; }
         public string bClass { get; set; }
         public string cClass { get; set; }
 
@@ -28,9 +28,9 @@ namespace TSQLtoCAharp
      public void  iInterface()
         {
             string test = File.ReadAllText(@"json.txt").ToString();
-            Console.WriteLine("Text: {0}" , test);
+            //Console.WriteLine("Text: {0}" , test);
             InitPost _InitPost =    JsonConvert.DeserializeObject<InitPost>(test);
-            string a = _InitPost.cClass.ToString();
+            string a = _InitPost.GetSetClass.ToString();
             Console.WriteLine("Hello World! from cDBConnect {0} ",a);
         }
     }

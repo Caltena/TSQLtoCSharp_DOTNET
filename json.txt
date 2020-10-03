@@ -1,4 +1,30 @@
 {
     "Title": "Json.NET is awesome!",
-    "cClass": "Das ist ein test"
+    "GetSetClass": " 
+                private #a1#  _#a0#; 
+                public #a1# #a0#
+                {
+                  get { return _#a0#; }
+                  set {
+                    _#a0# =
+                    value; Notify(#a0#);}
+                }
+            ",
+    "aClass": " 
+                class iXXX : INotifyPropertyChanged
+                {
+                public event
+                PropertyChangedEventHandler PropertyChanged;
+
+                ",
+    "bClass": " 
+            private void Notify(string argument) 
+                {
+                    if (this.PropertyChanged != null)
+                    {
+                        PropertyChangedEventHandler PropertyChanged;
+                    }
+                    this.PropertyChanged(this, new PropertyChangedEventArgs(argument));
+                }
+              "
 }
